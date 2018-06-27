@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">permissions</string>
+    <string name="enter_number">enter number</string>
+    <string name="enter_msg">enter msg</string>
+    <string name="send">send</string>
+    <string name="otp_conformation">OTP Conformation</string>
+    <string name="enter">enter</string>
+    <string name="button">Button</string>
+</resources>
